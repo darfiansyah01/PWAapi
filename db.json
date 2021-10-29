@@ -1,0 +1,25 @@
+{
+ "product" : 
+ [
+  {"id":1,"name":"Optima","category":"Kia"},
+  {"id":2,"name":"SRX","category":"Cadillac"},
+  {"id":3,"name":"SC","category":"Lexus"},
+  {"id":4,"name":"Sentra","category":"Nissan"},
+  {"id":5,"name":"Tiguan","category":"Volkswagen"},
+  {"id":6,"name":"Camaro","category":"Chevrolet"},
+  {"id":7,"name":"Bronco","category":"Ford"},
+  {"id":8,"name":"Cutlass","category":"Oldsmobile"},
+  {"id":9,"name":"Montana SV6","category":"Pontiac"},
+  {"id":10,"name":"Camaro","category":"Chevrolet"},
+  {"id":11,"name":"Fiero","category":"Pontiac"},
+  {"id":12,"name":"HS","category":"Lexus"},
+  {"id":13,"name":"Malibu","category":"Chevrolet"},
+  {"id":14,"name":"G-Class","category":"Mercedes-Benz"},
+  {"id":15,"name":"XC60","category":"Volvo"},
+  {"id":16,"name":"Laser","category":"Plymouth"},
+  {"id":17,"name":"Sienna","category":"Toyota"},
+  {"id":18,"name":"Spectra5","category":"Kia"},
+  {"id":19,"name":"Hombre Space","category":"Isuzu"},
+  {"id":20,"name":"Ram 1500 Club","category":"Dodge"}
+ ]
+}
